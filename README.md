@@ -15,6 +15,6 @@
 ## 💬 Ask me about...
 - Computer Science, Stocks, Soccer, Rubix Cubing, and more!
 ## ⚡ Fun fact: 
-- I'm a very large fan of soccer, and have even created a full stack apps, a rankings page, and an API under the name of SoccerRanker with that interest!
+- I'm a very large fan of soccer, and have even created web apps, a rankings page, and an API under the name of Soccer Ranker with that interest!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
