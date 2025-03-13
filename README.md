@@ -1,15 +1,5 @@
 ## Hi, I'm Mohan 👋
 
-## Computer Science Major 
-
-## I’m currently working on learning...
-- 🔭 Machine Learning, Data Structures, Linear Algebra, 
-## 💬 Ask me about...
-- Computer Science, Stocks, Soccer, Rubix Cubing, and more!
-## ⚡ Fun fact: 
-- I'm a very large fan of soccer, and have even created a full stack apps, a rankings page, and an API under the name of SoccerRanker with that interest!
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mksrinivasula/) 
 
@@ -19,5 +9,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=Mkscode92&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mkscode92&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mkscode92&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## I’m currently working on learning...
+- 🔭 Machine Learning, Data Structures, Linear Algebra, 
+## 💬 Ask me about...
+- Computer Science, Stocks, Soccer, Rubix Cubing, and more!
+## ⚡ Fun fact: 
+- I'm a very large fan of soccer, and have even created a full stack apps, a rankings page, and an API under the name of SoccerRanker with that interest!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
