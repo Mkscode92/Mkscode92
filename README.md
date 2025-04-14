@@ -13,7 +13,7 @@
 ## I’m currently working on learning...
 - 🔭 Machine Learning, Data Structures, Linear Algebra
 ## 💬 Ask me about...
-- Computer Science, Stocks, Soccer, Rubix Cubing, and more!
+- Computer Science, Soccer, Rubix Cubing, and more!
 ## ⚡ Fun fact: 
 - I'm a very large fan of soccer, and have even created web apps, a rankings page, and an API under the name of Soccer Ranker with that interest!
 
